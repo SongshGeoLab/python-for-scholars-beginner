@@ -1,2 +1,3 @@
-# python-for-scholars-begginer
-用来教学的材料
+# python-for-scholars-beginner
+
+一些用来教学的材料
